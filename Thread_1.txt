@@ -1,0 +1,30 @@
+1 ---> Local Port used: 55455, ipaddress: 10.12.15.74, port open: 135
+_________________________
+2 ---> Local Port used: 55506, ipaddress: 10.12.15.74, port open: 139
+_________________________
+3 ---> Local Port used: 57045, ipaddress: 10.12.15.74, port open: 445
+_________________________
+4 ---> Local Port used: 63987, ipaddress: 10.12.15.74, port open: 5040
+_________________________
+5 ---> Local Port used: 55178, ipaddress: 10.12.15.74, port open: 19575
+_________________________
+6 ---> Local Port used: 55186, ipaddress: 10.12.15.74, port open: 19576
+_________________________
+7 ---> Local Port used: 55189, ipaddress: 10.12.15.74, port open: 19577
+_________________________
+8 ---> Local Port used: 56022, ipaddress: 10.12.15.74, port open: 6646
+_________________________
+9 ---> Local Port used: 57196, ipaddress: 10.12.15.74, port open: 6881
+_________________________
+10 ---> Local Port used: 58570, ipaddress: 10.12.15.74, port open: 49664
+_________________________
+11 ---> Local Port used: 58575, ipaddress: 10.12.15.74, port open: 49665
+_________________________
+12 ---> Local Port used: 58601, ipaddress: 10.12.15.74, port open: 49670
+_________________________
+13 ---> Local Port used: 58605, ipaddress: 10.12.15.74, port open: 49671
+_________________________
+14 ---> Local Port used: 58608, ipaddress: 10.12.15.74, port open: 49672
+_________________________
+15 ---> Local Port used: 58668, ipaddress: 10.12.15.74, port open: 49684
+_________________________
